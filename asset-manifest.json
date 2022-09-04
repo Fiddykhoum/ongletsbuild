@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Fiddykhoum/ongletsbuild.git/static/css/main.ec3ec9e3.css",
+    "main.js": "/Fiddykhoum/ongletsbuild.git/static/js/main.e0bd872a.js",
+    "static/js/787.67a80aa1.chunk.js": "/Fiddykhoum/ongletsbuild.git/static/js/787.67a80aa1.chunk.js",
+    "static/media/esc.jpg": "/Fiddykhoum/ongletsbuild.git/static/media/esc.64b6e96b64dcd3fc0300.jpg",
+    "index.html": "/Fiddykhoum/ongletsbuild.git/index.html",
+    "main.ec3ec9e3.css.map": "/Fiddykhoum/ongletsbuild.git/static/css/main.ec3ec9e3.css.map",
+    "main.e0bd872a.js.map": "/Fiddykhoum/ongletsbuild.git/static/js/main.e0bd872a.js.map",
+    "787.67a80aa1.chunk.js.map": "/Fiddykhoum/ongletsbuild.git/static/js/787.67a80aa1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec3ec9e3.css",
+    "static/js/main.e0bd872a.js"
+  ]
+}
